@@ -44,7 +44,7 @@
  *
  *  @param index 天数
  *
- *  @return
+ *  @return 返回bool
  */
 -(BOOL)isTimeOutIndexDayWith:(NSInteger)index;
 -( NSString * _Nullable )stringWithyyyyBarMMBarddfmt;
